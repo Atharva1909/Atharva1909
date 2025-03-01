@@ -137,8 +137,8 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ## 📩 Contact
-📧 Email: **your.email@example.com**  
-🔗 GitHub: **[your-username](https://github.com/your-username)**  
+📧 Email: **atharvapravin2004@gmail.com**  
+🔗 GitHub: **[Atharva1909](https://github.com/Atharva1909)**  
 
 ---
 
