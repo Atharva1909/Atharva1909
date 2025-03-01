@@ -131,11 +131,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-This project is **open-source** under the **MIT License**.
-
----
-
 ## 📩 Contact
 📧 Email: **atharvapravin2004@gmail.com**  
 🔗 GitHub: **[Atharva1909](https://github.com/Atharva1909)**  
